@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "476894870864",
+    "firebase_url": "https://smart-wh-default-rtdb.firebaseio.com",
+    "project_id": "smart-wh",
+    "storage_bucket": "smart-wh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476894870864:android:c55e9ad5b8e850056b0055",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476894870864-0ki8ifjp3cukblsg0eg7ig0ipl3m0jrl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSbpB58_ho8zKD-pnr0Vt0FmjWRa1HLCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476894870864-0ki8ifjp3cukblsg0eg7ig0ipl3m0jrl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
